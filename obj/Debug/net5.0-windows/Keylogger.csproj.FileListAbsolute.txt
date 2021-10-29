@@ -1,0 +1,17 @@
+C:\Users\Simpl\source\repos\Keylogger\bin\Debug\net5.0-windows\Keylogger.exe
+C:\Users\Simpl\source\repos\Keylogger\bin\Debug\net5.0-windows\Keylogger.deps.json
+C:\Users\Simpl\source\repos\Keylogger\bin\Debug\net5.0-windows\Keylogger.runtimeconfig.json
+C:\Users\Simpl\source\repos\Keylogger\bin\Debug\net5.0-windows\Keylogger.runtimeconfig.dev.json
+C:\Users\Simpl\source\repos\Keylogger\bin\Debug\net5.0-windows\Keylogger.dll
+C:\Users\Simpl\source\repos\Keylogger\bin\Debug\net5.0-windows\ref\Keylogger.dll
+C:\Users\Simpl\source\repos\Keylogger\bin\Debug\net5.0-windows\Keylogger.pdb
+C:\Users\Simpl\source\repos\Keylogger\obj\Debug\net5.0-windows\Keylogger.Form1.resources
+C:\Users\Simpl\source\repos\Keylogger\obj\Debug\net5.0-windows\Keylogger.csproj.GenerateResource.cache
+C:\Users\Simpl\source\repos\Keylogger\obj\Debug\net5.0-windows\Keylogger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simpl\source\repos\Keylogger\obj\Debug\net5.0-windows\Keylogger.AssemblyInfoInputs.cache
+C:\Users\Simpl\source\repos\Keylogger\obj\Debug\net5.0-windows\Keylogger.AssemblyInfo.cs
+C:\Users\Simpl\source\repos\Keylogger\obj\Debug\net5.0-windows\Keylogger.csproj.CoreCompileInputs.cache
+C:\Users\Simpl\source\repos\Keylogger\obj\Debug\net5.0-windows\Keylogger.dll
+C:\Users\Simpl\source\repos\Keylogger\obj\Debug\net5.0-windows\ref\Keylogger.dll
+C:\Users\Simpl\source\repos\Keylogger\obj\Debug\net5.0-windows\Keylogger.pdb
+C:\Users\Simpl\source\repos\Keylogger\obj\Debug\net5.0-windows\Keylogger.genruntimeconfig.cache

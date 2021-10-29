@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y3dTKhRGsoSvPTq40T/YqSmxM3fBF3+XLTJD0mQbiZAx8CPEdFGRimwHlotxAo5XpzffgFKbudoxDCp/CxOvSQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Simpl\\source\\repos\\Keylogger\\Keylogger.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Simpl\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\5.0.10\\microsoft.netcore.app.runtime.win-x64.5.0.10.nupkg.sha512",
+    "C:\\Users\\Simpl\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\5.0.10\\microsoft.windowsdesktop.app.runtime.win-x64.5.0.10.nupkg.sha512",
+    "C:\\Users\\Simpl\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\5.0.10\\microsoft.aspnetcore.app.runtime.win-x64.5.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}

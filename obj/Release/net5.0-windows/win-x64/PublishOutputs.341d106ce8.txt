@@ -1,0 +1,2 @@
+C:\Users\Simpl\source\repos\Keylogger\bin\Release\net5.0-windows\win-x64\publish\Keylogger.pdb
+C:\Users\Simpl\source\repos\Keylogger\bin\Release\net5.0-windows\win-x64\publish\Keylogger.exe
