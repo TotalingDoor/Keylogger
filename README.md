@@ -7,7 +7,7 @@ It will create a file named "log.txt" in the directory of the Keylogger this doe
 
 **--To Stop The Keylogger--**
 
-Either restart OR follow these steps press Left-Ctrl, Shift and Esc at the same time, look for Details, click it then scroll down till you see "Keylogger.exe", click it then click End Task, Done!
+Either restart OR follow these steps press Left-Ctrl, Shift and Esc at the same time, look for Details, click it then scroll down till you see "Keylogger.exe", click it then click End Task and End Process, Done!
 
 Have Fun!
 
